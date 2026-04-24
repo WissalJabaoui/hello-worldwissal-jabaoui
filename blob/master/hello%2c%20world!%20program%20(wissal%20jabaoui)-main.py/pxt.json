@@ -1,0 +1,25 @@
+{
+    "name": "hello-worldwissal-jabaoui-blob-master-hello2c20world20program20wissal20jabaoui-mainpy",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "hello-worldwissal-jabaoui": "github:wissaljabaoui/hello-worldwissal-jabaoui"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.21",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
